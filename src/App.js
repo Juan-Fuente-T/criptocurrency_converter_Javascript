@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import CryptoConverterApp from './CryptoConverterApp';
 
 function App() {
   return (
@@ -18,6 +19,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="App2">
+        <p>Rayos</p>
+        <CryptoConverterApp />
+      </div>
     </div>
   );
 }
