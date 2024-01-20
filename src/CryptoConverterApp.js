@@ -149,7 +149,7 @@ const CryptoConverterApp = () => {
 
     return (
         <div>
-            <p>Mocos</p>
+            <p>Currencys</p>
             <div className='select-currencys'>
                 <div className='select-containers'>
                     {/* Componentes React para la interfaz gráfica */}
